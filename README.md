@@ -20,4 +20,4 @@ Welcome to my GitHub profile! I am an undergraduate Information Systems student 
 
 ---
 
-📫 **How to reach me:** Feel free to explore my repositories or connect with me via [LinkedIn](linkedin.com/in/fikirte-eshetu)
+📫 **How to reach me:** Feel free to explore my repositories or connect with me via [LinkedIn](www.linkedin.com/in/fikirte-eshetu)
