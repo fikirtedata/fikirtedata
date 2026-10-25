@@ -2,7 +2,7 @@
 
 🎓 **Information Systems Student** | 💻 **Web Development Enthusiast**
 
-Welcome to my GitHub profile! I am an undergraduate Information Systems student passionate about building practical software solutions, refining my algorithmic problem-solving skills, and creating tools that bridge business needs with technology.
+Welcome to my GitHub profile! I am an undergraduate Information Science student passionate about building practical software solutions, refining my algorithmic problem-solving skills, and creating tools that bridge business needs with technology.
 
 ---
 
