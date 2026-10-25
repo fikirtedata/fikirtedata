@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am an undergraduate Information Science student 
 - **Frontend:** HTML, CSS, React, Tailwind CSS
 - **Backend & Databases:** Node.js, Express, PostgreSQL, SQLite
 - **Workflow & Tools:** Git, GitHub, VS Code, Postman, Vercel
-- **Data Structures & Algorithms** LeetCode(problem-solving in Python), Neetcode,Codeforce
+- **Data Structures & Algorithms:** LeetCode(problem-solving in Python), Neetcode,Codeforce
 
 ---
 ### 🎯 My Goals
