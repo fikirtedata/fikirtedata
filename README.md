@@ -2,15 +2,16 @@
 
 🎓 **Information Systems Student** | 💻 **Web Development Enthusiast**
 
-Welcome to my GitHub profile! I am an undergraduate Information Systems student passionate about building 
+Welcome to my GitHub profile! I am an undergraduate Information Systems student passionate about building practical software solutions, refining my algorithmic problem-solving skills, and creating tools that bridge business needs with technology.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, C++
-- **Data Tools:** HTML, CSS, Java Script, React
-- **Workflow & Tools:** Git, GitHub, VS Code, Google Colab
+- **Languages:** Python, JavaScript, C++
+- **Frontend:** HTML, CSS, React, Tailwind CSS
+- **Backend & Databases:** Node.js, Express, PostgreSQL, SQLite
+- **Workflow & Tools:** Git, GitHub, VS Code, Postman, Vercel
 
 ---
 ### 🎯 My Goals
