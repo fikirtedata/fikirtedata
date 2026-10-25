@@ -1,6 +1,6 @@
 # Hi, I'm Fikirte 👋
 
-🎓 **Information Systems Student** | 💻 **Frontend Development Enthusiast**
+🎓 **Information Systems Student** | 💻 **Web Development Enthusiast**
 
 Welcome to my GitHub profile! I am an undergraduate Information Systems student passionate about building 
 
